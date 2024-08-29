@@ -1,0 +1,6 @@
+.imgquadrada {
+    width: 100px;
+    height: 100px;
+    object-fit: cover; /* Garante que a imagem preencha o quadrado sem distorcer */
+    display: block;    /* Remove o espaço extra abaixo da imagem */
+}
