@@ -8,9 +8,6 @@ Um projeto simples de blog utilizando Flask para demonstrar práticas básicas d
 - [Funcionalidades](#funcionalidades)
 - [Pré-requisitos](#pré-requisitos)
 - [Configuração do Ambiente](#configuração-do-ambiente)
-- [Uso](#uso)
-- [Estrutura do Projeto](#estrutura-do-projeto)
-- [Contribuição](#contribuição)
 - [Licença](#licença)
 
 ## Visão Geral
